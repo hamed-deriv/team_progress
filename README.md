@@ -63,7 +63,7 @@
 
 :)
 
-**State** _Ready for Release_
+**State** _App is Ready for Release, Release is Blocked by BE_
 
 ### Migrate DP2P data layer to Flutter Deriv API version 3
 
