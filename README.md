@@ -55,7 +55,7 @@
 - Better support: Previous ORM framework is no longer actively maintained or supported. Migrating to a new ORM can ensure that you have access to ongoing support and updates.
 - Enhanced compatibility: New ORM frameworks are often designed to be more compatible with the latest versions of software and platforms. Migrating to a new ORM can help ensure that the app works seamlessly on newer devices and platforms.
 
-**State** _Code Review_
+**State** _Code Review, Blocked by Upgrade to Flutter Version 3_
 
 ### Implement Deriv EZ
 
@@ -63,7 +63,7 @@
 
 :)
 
-**State** _QA_
+**State** _Ready for Release_
 
 ### Migrate DP2P data layer to Flutter Deriv API version 3
 
@@ -84,4 +84,4 @@
 - Uniform code base: Using a micro framework can help to promote uniformity in the codebase by providing a set of core functionality and guidelines for how to use it. This can help to ensure that all team members are working to the same standards and following the same conventions, which can improve the overall consistency and quality of the codebase.
 - Reduce onboarding time: Using a micro framework can help to reduce the onboarding time for new team members, as it provides a smaller and more focused set of tools and functionality for them to learn. This can make it easier for new team members to understand the codebase and get up to speed with the project more quickly.
 
-**State** _In Progress_
+**State** _Backlog_
